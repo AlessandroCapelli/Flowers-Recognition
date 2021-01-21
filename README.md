@@ -1,14 +1,13 @@
-# Progetto di Advanced Machine Learning
-## Flowers Recognition
-### Alessandro Capelli
+# Flowers Recognition
+## Alessandro Capelli
 
-### Introduzione
+## Introduzione
 
 Per eseguire il notebook utilizzare la piattaforma Colab di Google: <https://colab.research.google.com>.
 
 Il dataset è reperibile all'indirizzo: <http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html>.
 
-### Istruzioni
+## Istruzioni
 1. Caricare il file "Source Code.ipynb" in Colab
 2. Scaricare il file "102flowers.tgz" da <https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz>
 3. Rinominare "102flowers.tgz" in "images.tgz"
